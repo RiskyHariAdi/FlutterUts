@@ -6,5 +6,5 @@
 
 ### output
 ## Login
-![hasil](hasil/login.png)
-![hasil](hasil/register.png)
+![hasil](hasil/login.jpg)
+![hasil](hasil/register.jpg)
