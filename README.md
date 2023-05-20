@@ -7,4 +7,5 @@
 ### output
 ## Login
 ![hasil](hasil/login.jpg)
+## Register
 ![hasil](hasil/register.jpg)
